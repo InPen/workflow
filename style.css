@@ -3,6 +3,9 @@
      -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
      box-sizing: border-box; /* IE */
 }
+button{
+  float: right;
+}
 .dos{
   float: left;
   width: 50%;
